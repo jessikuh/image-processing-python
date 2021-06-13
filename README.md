@@ -1,6 +1,6 @@
 # Solus Orbis Avatar Processing (Deprecated)
 
-This is an application utilizing fastAPI to resize avatars. It is deprecated due to being milliseconds to a second slower than its Node counterpart (solus-orbis-api-file-uploads).
+This is an application utilizing fastAPI to resize avatars. It is deprecated due to being milliseconds to a second slower than its Node counterpart.
 
 ## Experimentation
 
